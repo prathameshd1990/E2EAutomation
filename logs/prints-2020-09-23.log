@@ -1,0 +1,6 @@
+19:36:23.775 [main] INFO  Academy.E2EMechanismTest - User logged in with: prathameshd1990@yahoo.in Mtech123$
+19:36:54.044 [main] INFO  Academy.E2EMechanismTest - browser launched succesfully
+19:36:56.026 [main] INFO  Academy.E2EMechanismTest - No of courses mathced i.e: 22
+19:37:20.981 [TestNG-tests-3] INFO  Academy.E2EMechanismTest - browser launched succesfully
+19:37:27.136 [TestNG-tests-1] INFO  Academy.ValidateNavigationBarTest - Successfull validate navigation bar
+19:37:29.027 [TestNG-tests-2] INFO  Academy.ValidateTitleTest - Application validated succesfully

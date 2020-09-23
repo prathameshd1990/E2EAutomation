@@ -1,0 +1,11 @@
+# Created at 2020-05-05T15:18:52.210
+Illegal type at constant pool entry 37 in class Academy.Listeners
+Exception Details:
+  Location:
+    Academy/Listeners.onTestFailedWithTimeout(Lorg/testng/ITestResult;)V @2: invokespecial
+  Reason:
+    Constant pool index 37 is invalid
+  Bytecode:
+    0x0000000: 2a2b b700 25b1                         
+
+
